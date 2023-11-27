@@ -1,0 +1,19 @@
+{
+  "name": "forktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "pug": "^3.0.2",
+    "sass": "^1.69.5",
+    "sqlite3": "^5.1.6",
+    "supervisor": "^0.12.0"
+  }
+}
